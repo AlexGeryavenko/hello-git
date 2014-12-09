@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-E e... how without it
+How without it
 
 
 2. In new branch
